@@ -116,6 +116,6 @@ For the complete step-by-step implementation with AWS screenshots, Kubernetes co
 
 ## 👩‍💻 Author
 
-**Jeni Balar**
+**Nirbhay Singh**
 
 Cloud & DevOps Project
