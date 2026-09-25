@@ -108,11 +108,7 @@ The monitoring stack also includes:
 - Used an alternate port `8081` for application access when port `8080` was already in use.
 - Verified EKS nodes, Pods, Services, and monitoring components using Kubernetes commands.
 
-## 📄 Project Documentation
 
-For the complete step-by-step implementation with AWS screenshots, Kubernetes configuration, CI/CD pipeline, monitoring setup, verification, and troubleshooting:
-
-**[📄 View Project Implementation Report](./Report/Project-3_Zomato_DevOps_Project_Report.pdf)**
 
 ## 👩‍💻 Author
 
